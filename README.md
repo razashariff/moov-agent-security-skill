@@ -33,4 +33,4 @@ MCPS signing and AgentPass identity verification are already merged into moov-io
 ## Author
 
 Raza Sharif, CyberSecAI Ltd
-raza.sharif@outlook.com
+raza.sharif@outlook.com | contact@agentsign.dev

@@ -356,4 +356,4 @@ This security skill wraps the patterns from the core Moov skills:
 - [AgentPass Platform](https://agentpass.co.uk)
 
 ---
-Raza Sharif, CyberSecAI Ltd -- raza.sharif@outlook.com
+Raza Sharif, CyberSecAI Ltd -- raza.sharif@outlook.com | contact@agentsign.dev
